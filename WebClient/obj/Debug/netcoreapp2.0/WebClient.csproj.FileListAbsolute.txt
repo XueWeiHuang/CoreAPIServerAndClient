@@ -1,0 +1,11 @@
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.deps.json
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.runtimeconfig.json
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.runtimeconfig.dev.json
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\bin\Debug\netcoreapp2.0\WebClient.pdb
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.csprojAssemblyReference.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.csproj.CoreCompileInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.AssemblyInfoInputs.cache
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.AssemblyInfo.cs
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.dll
+E:\Computer Application Development\Porfolio\SimpleAPI\APIBase\Module_1_Lab_Files\Run a Client-Server System on Single Machine\WebClient\obj\Debug\netcoreapp2.0\WebClient.pdb
